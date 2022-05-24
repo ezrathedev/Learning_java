@@ -4,7 +4,7 @@ public class HelloWorld {
   }
 }
 
-
+/*
 // hide and seek using the diffrence between print and println
 public class HideAndSeek {
   public static void main(String[] args) {
@@ -16,4 +16,4 @@ System.out.println("One...");
 System.out.println("Ready or not, here I come!");
 
   }
-}
+}*/
